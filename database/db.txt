@@ -1,0 +1,333 @@
+{
+ "ciudad": [
+      {
+        "name": "Bogota",
+        "description": "la atenas sudamericana"
+      },
+      {
+        "name": "Bucaramanga",
+        "description": "la ciudad de los parques"
+      },
+      {
+        "name": "Medellin",
+        "description": "Ciudad de la eterna primavera"
+      },
+      {
+        "name": "Tolú",
+        "description": "Playa de plata"
+      },
+      {
+        "name": "Sincelejo",
+        "description": "La flor de la sabana"
+      },
+      {
+        "name": "Cali",
+        "description": "La sultana del valle"
+      },
+      {
+        "name": "Barranquilla",
+        "description": "La puerta de oro"
+      },
+      { 
+        "name": "Pereira",
+        "description": "La perla del otun"
+      },
+      {
+        "name": "Manizales",
+        "description": "La ciudad de las puertas abiertas"
+      },
+      {
+        "name": "Armenia",
+        "description": "La ciudad milagro de Colombia"
+      },
+      {
+        "name": "Buga",
+        "description": "La ciudad señora"
+      },
+      {
+        "name": "Cucúta",
+        "description": "La perla del norte"
+      },
+      {
+        "name": "Ipiales",
+        "description": "La ciudad de las nubes verdes"
+      },
+      {
+        "name": "Duitama",
+        "description": "La perla de Boyaca"
+      },
+      {
+        "name": "Leticia",
+        "description": "El porton de sur américa"
+      },
+      {
+        "name": "Neiva",
+        "description": "La ciudad amable"
+      },
+      {
+        "name": "Pasto",
+        "description": "La ciudad sorpresa"
+      },
+      {
+        "name": "Popayan",
+        "description": "La ciudad blanca"
+      },
+      {
+        "name": "Santa marta",
+        "description": "El balcon de américa"
+      },
+      {
+        "name": "Yopal",
+        "description": "La capital mundial del llanero"
+      }
+ ],
+ "tipodocument": [
+    {
+      
+       "name": "CC",
+       "description": "cedula de ciudadania"
+     },
+     {
+      
+       "name": "CC",
+       "description": "cedula de ciudadania"
+     },
+     {
+      
+       "name": "TI",
+       "description": "Tarjeta de identidad"
+     },
+     {
+      
+       "name": "CC",
+       "description": "cedula de ciudadania"
+     },
+     {
+      
+       "name": "CC",
+       "description": "cedula de ciudadania"
+     },
+     {
+      
+      "name": "CE",
+       "description": "cedula extranjera"
+     },
+     {
+      
+      "name": "PA",
+       "description": "Pasaporte"
+     },
+     {
+      
+       "name": "CC",
+       "description": "cedula de ciudadania"
+     },
+     {
+      
+       "name": "CC",
+       "description": "cedula de ciudadania"
+     },
+     {
+      
+       "name": "CC",
+       "description": "cedula de ciudadania"
+     },
+     {
+      
+       "name": "CC",
+       "description": "cedula de ciudadania"
+     },
+     {
+      
+       "name": "CC",
+       "description": "cedula de ciudadania"
+     },
+     {
+      
+       "name": "TI",
+       "description": "Tarjeta de identidad"
+     },
+     {
+    
+       "name": "TI",
+       "description": "Tarjeta de identidad"
+     },
+     {
+      
+       "name": "CC",
+       "description": "cedula de ciudadania"
+     },
+     {
+      
+       "name": "CC",
+       "description": "cedula de ciudadania"
+     },
+     {
+      
+       "name": "CC",
+       "description": "cedula de ciudadania"
+     },
+     {
+      
+       "name": "CC",
+       "description": "cedula de ciudadania"
+     },
+     {
+      
+      "name": "CE",
+       "description": "cedula extranjera"
+     },
+     {
+      
+       "name": "CC",
+       "description": "cedula de ciudadania"
+     }
+ ],
+ "username": [
+       {
+        
+        "names": "Carlos",
+        "lastnames": "Garcia Forero",
+        "document": 1005451149,
+        "email": "charlygarcia@gmail.com",
+        "phone": 3176387210,
+        "username": "charlyy",
+        "password": "zxc123",
+        "birthday": "1963-01-20",
+        "typedocument": 1,
+        "residence": 1
+       },
+       {
+        
+        "names": "Luis Alberto",
+        "lastnames": "Spinetta Torrez",
+        "document": 1005452149,
+        "email": "spinetta@gmail.com",
+        "phone": 3186387210,
+        "username": "flaco",
+        "password": "password",
+        "birthday": "1970-01-01",
+        "typedocument": 2,
+        "residence": 2
+       },
+       {
+        
+        "names": "Lucas",
+        "lastnames": "Prodan Sumo",
+        "document": 1005452148,
+        "email": "sumo@gmail.com",
+        "phone": 3186387211,
+        "username": "luca",
+        "password": "123456",
+        "birthday": "2008-02-01",
+        "typedocument": 3,
+        "residence": 3
+       },
+       {
+        
+        "names": "Andres",
+        "lastnames": "Serrano Perez",
+        "document": 1005452142,
+        "email": "andres@gmail.com",
+        "phone": 3146787211,
+        "username": "andre",
+        "password": "666666",
+        "birthday": "1989-05-12",
+        "typedocument": 4,
+        "residence": 4
+       },
+       {
+        
+        "names": "Camilo",
+        "lastnames": "Torrez Salazar",
+        "document": 1167778842,
+        "email": "ellen@gmail.com",
+        "phone": 3116787211,
+        "username": "cami",
+        "password": "177m",
+        "birthday": "1966-11-11",
+        "typedocument": 5,
+        "residence": 5
+       },
+       {
+        
+        "names": "Juan Emilio",
+        "lastnames": "Juarez Garcia",
+        "document": 1000002148,
+        "email": "emily@gmail.com",
+        "phone": 3109034566,
+        "username": "emily",
+        "password": "emichenka",
+        "birthday": "2000-07-09",
+        "typedocument": 6,
+        "residence": 6
+        },
+        {
+        
+        "names": "Juan",
+        "lastnames": "Garcia Garcia",
+        "document": 1005633338,
+        "email": "ggar@gmail.com",
+        "phone": 3106634568,
+        "username": "juan23",
+        "password": "ggarcica",
+        "birthday": "1999-12-06",
+        "typedocument": 7,
+        "residence": 7
+        },
+        {
+        
+        "names": "Bartolomeo",
+        "lastnames": "Spiga Blanco",
+        "document": 1005778978,
+        "email": "spiga@outlook.com",
+        "phone": 31168938968,
+        "username": "bartolome",
+        "password": "xcv345",
+        "birthday": "1999-26-12",
+        "typedocument": 8,
+        "residence": 8
+        },
+        {
+        
+        "names": "Angie",
+        "lastnames": "Quintero Caro",
+        "document": 1004455466,
+        "email": "caro@gmail.com",
+        "phone": 31867900988,
+        "username": "anyi",
+        "password": "1k33456",
+        "birthday": "1996-12-02",
+        "typedocument": 9,
+        "residence": 9
+        },
+        {
+        ,
+        "names": "Daniela",
+        "lastnames": "Rodriguez Ramirez",
+        "document": 1107488996,
+        "email": "danii@gmail.com",
+        "phone": 3188790881,
+        "username": "hobit",
+        "password": "iloup",
+        "birthday": "2000-01-10",
+        "typedocument": 10,
+        "residence": 10
+        },
+        {
+        ,
+        "names": "Laura",
+        "lastnames": "Quintero Mistral",
+        "document": 1197456781,
+        "email": "lauq@gmail.com",
+        "phone": 3488790881,
+        "username": "ronaldinho",
+        "password": "lauqqq",
+        "birthday": "1996-10-10",
+        "typedocument": 11,
+        "residence": 11
+        }
+       
+ ]
+
+}
